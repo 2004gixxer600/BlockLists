@@ -8,4 +8,4 @@ These blocklists are currated from our custom Threat Platform and pulls from man
 
 They can be used with Firewalls, DNS protection etc.  
 
-Check out my blog https://blog.netmnaageit.com for a ton of great howto articles, cyber news, and much much more.
+Check out my blog https://blog.netmanageit.com for a ton of great howto articles, cyber news, and much much more.
