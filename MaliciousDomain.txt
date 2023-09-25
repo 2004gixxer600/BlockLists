@@ -1,3 +1,4 @@
+rendinfo.shop
 dropmefiles.com.ua
 checkblacklistwords.eu
 ptzbubble.shop
