@@ -1,3 +1,12 @@
+cloudfronts.net
+main.cloudfronts.net
+xpack.disqus.com
+secures-tool.com
+adsometric.com
+cngresearch.com
+pmdresearch.com
+oastify.com
+madhavaapps.science
 cloudjs.live
 jscloud.ink
 jscloud.live
