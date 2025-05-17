@@ -1,3 +1,7 @@
+sentinelones.com
+trycloudflare.com
+fuckeveryday.life
+fghytr.com
 moralis-api-v3.cloud
 modilus.io
 chainlink-api-v3.cloud
